@@ -1,3 +1,6 @@
+### POINTS: 0 
+### KEY: No submission
+
 # Django Model Forms 1 CW
 
 ### Exercise 1: Create a basic blog entry page
